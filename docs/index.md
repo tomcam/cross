@@ -1,3 +1,6 @@
+---
+title: Home page
+---
 # Cross-platform
 
 ## Business/general purposes
